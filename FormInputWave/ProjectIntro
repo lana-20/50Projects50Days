@@ -1,0 +1,7 @@
+In this project, I built a simple login form with a wave effect on the labels.
+When clicking on the input, the label waves up.
+It's a cool little animation, when clicking in or out.
+I wrapped a span around each one of the labels using JavaScript.
+And I added a transition so that the label moves up when focusing on the input.
+I also added a dynamic transition delay, so it gives it that wave effect.
+So, each letter goes up or down at a different time.
