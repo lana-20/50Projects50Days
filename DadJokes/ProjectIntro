@@ -1,0 +1,8 @@
+In this project, I am building a dad joke application where it gives you a joke.
+You can click a button to get a new joke, and you can keep getting new jokes.
+
+I am achieving this by making HTTP requests to a third party API https://icanhazdadjoke.com/api.
+I am using Fetch API, that is built into the browser to make a request and get an object with 
+an id, a joke and a status: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch.
+And I am taking that joke and putting it into the application.
+The code shows how to use Fetch normally, as well as with Async/Await.
