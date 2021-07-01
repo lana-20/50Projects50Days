@@ -6,3 +6,6 @@ I am using Fetch API, that is built into the browser to make a request and get a
 an id, a joke and a status: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch.
 And I am taking that joke and putting it into the application.
 The code shows how to use Fetch normally, as well as with Async/Await.
+
+Using Fetch is not mandatory, you can use the curl terminal program, Postman or Axios.
+Fetch is convenient because it's built into the browser and requires no CDN installation.
