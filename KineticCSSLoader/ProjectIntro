@@ -1,0 +1,3 @@
+I am making a kinetic loader, where I have two triangles created with pure CSS.
+I am adding an animation so that the triangles can rotate and follow one another.
+I am creating @keyframes, and also showing how to create the triangles using borders.
