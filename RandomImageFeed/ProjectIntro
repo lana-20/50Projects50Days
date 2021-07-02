@@ -1,0 +1,7 @@
+In this project, I am building a random image feed, where you can come to the page and it will get a bunch of random images for you.
+In JavaScript, you are able to put the number of rows that you want. I have 10 rows of images with 3 columns in each row.
+I am not using any API. I am getting images from this URL: https://source.unsplash.com/random/.
+You can put a slash and get a size like 300x300, as in https://source.unsplash.com/random/300x300.
+If you put 300x301, it's going to give you a different image.
+It will generate a random size and insert those images into the DOM using JavaScript.
+No API, no fetch requests or anything alike, I am just inserting random images into the DOM.
