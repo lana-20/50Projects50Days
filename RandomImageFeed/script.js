@@ -8,8 +8,6 @@ for(let i = 0; i < rows * 3; i++) {
   container.appendChild(img)
 }
 
-// console.log(getRandomSize)
-
 function getRandomSize() {
   return `${getRandomNr()}x${getRandomNr()}`
 }
