@@ -1,0 +1,6 @@
+In this project, I am creating a hover board, where you can paint boxes on the screen.
+I am styiling them with CSS and setting to a certain number.
+It is set to 500 in the JavaScript now, and it paints that number of boxes.
+I have event listeners for mouseover and mouseout, so when you hover over it gives you a random color.
+When hovering over a box, it turns blue; hover again - purple. There is an array of colors to choose from.
+This can be used for a drawing application. I am using CSS transition for the fadeout effect.
