@@ -4,4 +4,4 @@ which has a background image coming from Unsplash, just a random image.
 When you grab it, the image you are holding has a class of hold, which gives it a faint grey border.
 Each of the these boxes that you hover over gets a class of hovered, a dark background, and a white dashed border.
 If you drop the image, it will go in whichever of the boxes you are hovering over.
-The project gives an understanding of how drag and drop works. You can build some interfaces or even games with it.
+The project gives an understanding of how drag-and-drop works. You can build some interfaces or even games with it.
