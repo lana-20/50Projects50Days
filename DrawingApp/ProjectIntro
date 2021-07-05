@@ -6,3 +6,8 @@ There are controls on the bottom, where I can change the color.
 I can also change the width of the pen line. When going down to 5, 
 which is the lowest value, the line is smaller. The highest thickness is 50.
 The drawing can be cleared with the X button.
+
+Links:
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
