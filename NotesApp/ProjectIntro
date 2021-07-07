@@ -10,10 +10,11 @@ If I reload, they are going to stay because they are saved in local storage.
 If I delete one note and reload, it's going to stay the same, 
 because it's been saved to the local browser and local storage.
 
-Another thing I can do is use markdown, becase I am using a small library called Marked.
+Another thing I can do is use markdown, becase I am using a small library called 
+Marked: https://cdnjs.com/libraries?q=marked.
 For an unordered list I use hyphen (-), for a heading a number sign (#), and so on.
 You can look up and study the markdown syntax on your own.
 
-This is a neat application to practice local storage, work with the DOM, add and remove items, etc.
+This is a neat application to practice local storage, work with the DOM, remove items, etc.
 It is basically a CRUD (Create Read Update Delete) appication with markdown.
  
