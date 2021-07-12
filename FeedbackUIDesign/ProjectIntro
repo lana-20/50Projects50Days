@@ -1,0 +1,13 @@
+In this project, I am building a survey or feedback UI design.
+I have a panel saying "How satisfied are you with our customer support performance?".
+I have three choices of smiley faces with Unhappy, Neutral, Satisfied.
+You can click on one, it highlights it with a box, basically changing the class to active.
+You can submit the feedback by clicking "Send Review".
+And it shows a thank you message with whatever you chose for the feedback, eg. Satisfied.
+And it says "We'll use your feedback to improve our customer performance".
+
+In JavaScript, instead of just looping through the ratings boxes and adding an event listener
+on each one, I am taking advantage of event bubbling and adding an event listener to one of 
+the parent nodes and then target the specific rating node.
+I am looking at some different properties for dealing with the DOM, 
+moving to different elements, and of course the CSS to create this interface.
