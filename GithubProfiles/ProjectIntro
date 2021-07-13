@@ -9,7 +9,7 @@ GitHub REST API documentation: https://docs.github.com/en/rest.
 Fetch users: https://docs.github.com/en/rest/reference/users#get-a-user.
 Fetch user's repos: https://docs.github.com/en/rest/reference/repos#list-repositories-for-a-user.
 
-I am also using Axios instead of the Fetch API: https://github.com/axios/axios.
+I am also using Axios instead of the Fetch API: https://github.com/axios/axios, https://cdnjs.com/libraries/axios.
 Axios is a library, a promise-based HTTP client for the browser and node.js.
 I prefer Axios when working on any medium to large size projects. It has better features.
 It is easier to use. The error handling is better. I am using it with async/await, but it can 
