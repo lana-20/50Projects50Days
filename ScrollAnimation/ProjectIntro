@@ -10,5 +10,5 @@ And it alternates where it comes in from.
 Using the following: 
 1) CSS transitions - to have it come in smoothly.
 2) JavaScript - to tell where the trigger point is for the next box to come in. 
-    Then adding a specific class to show it. 
-        When going back up, it removes the class when it hits the trigger point.
+   Then adding a specific class to show it. 
+   When going back up, it removes the class when it hits the trigger point.
