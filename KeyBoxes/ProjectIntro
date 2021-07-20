@@ -10,7 +10,7 @@ It's really simple, but it can  be useful if you need to get the code for someth
 .keyCode does still work. If it doesn't work for you at the time of viewing this repository,
 you can get rid of this box and just display the code.
 
-MDN docuumentations recommends to use .code from https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code.
+MDN documentation recommends to use .code from https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code.
 .code property is useful when you want to handle keys based on their physical positions on the input device 
 rather than the characters associated with those keys; this is especially common when writing code to handle 
 input for games that simulate a gamepad-like environment using keys on the keyboard.
