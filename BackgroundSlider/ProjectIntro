@@ -1,5 +1,5 @@
 I am building an image slider that also has a changing background image.
-The backdround is basically inline with the image.
+The background is basically inline with the image.
 I have event listeners on the arrow buttons. So when you click, it changes the image,
 and also changes the background image and positions it in the right place.
 The foreground and background images are connected. One is on the slide element, the other - on the body element.
