@@ -1,5 +1,5 @@
-I am making 3D boxes background. I am using modern CSS to create this 3D effect.
-I am using a backgrounf gif for each one of the boxes. It's all the same image - a Pikachu image.
+I am making a 3D boxes background. I am using modern CSS to create this 3D effect.
+I am using a background gif for each one of the boxes. It's all the same image - a Pikachu image.
 I am extending the background size beyond the the single box to make it as big as the container.
 Then I dynamically calculate the background position, so I can move the boxes around and form what
 looks like one big image. When really it's a just a bunch of the same image.
