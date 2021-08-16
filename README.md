@@ -1,5 +1,5 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
-## 50 mini projects in HTML, CSS and JavaScript that relate to the DOM (Document Object Model).
+## 50 mini projects in HTML, CSS and JavaScript that relate to the DOM
 This is the main repository for all of the projects in the course.
 * [Course Link](https://www.udemy.com/course/50-projects-50-days/)
 * [Course Info Website](https://50projects50days.com/)
