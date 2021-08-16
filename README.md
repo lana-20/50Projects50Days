@@ -3,7 +3,7 @@
 This is the main repository for all of the projects in the course.
 * [Course Link](https://www.udemy.com/course/50-projects-50-days/)
 * [Course Info Website](https://50projects50days.com/)
-
+![Certificate of Completion](https://github.com/lana-20/50Projects50Days/blob/main/Certficate%20of%20Completion.jpg)
 
 | # |	Project	| Live Demo |
 |:--|:--|:-- |
