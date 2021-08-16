@@ -46,18 +46,17 @@ This is the main repository for all of the projects in the course.
 | 37 |	Pokedex	 | Live Demo |
 | 38 |	Mobile Tab Navigation	 | Live Demo |
 | 39 |	Password Strength Background	 | Live Demo |
-| 40 |	3d Background Boxes	 | Live Demo |
-| 41 |	Verify Account Ui	 | Live Demo |
-| 42 |	Live User Filter	 | Live Demo |
-| 43 |	Feedback Ui Design	 | Live Demo |
-| 44 |	Custom Range Slider	 | Live Demo |
-| 45 |	Netflix Mobile Navigation	 | Live Demo |
-| 46 |	Quiz App	 | Live Demo |
-| 47 |	Testimonial Box Switcher	 | Live Demo |
-| 48 |	Random Image Feed	 | Live Demo |
-| 49 |	Todo List	 | Live Demo |
-| 50 |	Insect Catch Game	 | Live Demo |
-
+| 40 | [3D Background Boxes](https://github.com/lana-20/50Projects50Days/tree/main/3DBackgroundBoxes) | [Live Demo](https://lana-20.github.io/3d-background-boxes/) |
+| 41 | [Verify Account UI](https://github.com/lana-20/50Projects50Days/tree/main/VerifyAccountUI) | [Live Demo](https://lana-20.github.io/verify-account-ui/) |
+| 42 | [Live User Filter](https://github.com/lana-20/50Projects50Days/tree/main/LiveUserFilter) | [Live Demo](https://lana-20.github.io/live-user-filter/) |
+| 43 | [Feedback UI Design](https://github.com/lana-20/50Projects50Days/tree/main/FeedbackUIDesign) | [Live Demo](https://lana-20.github.io/feedback-ui-design/) |
+| 44 | [Custom Range Slider](https://github.com/lana-20/50Projects50Days/tree/main/CustomRangeSlider) | [Live Demo](https://lana-20.github.io/custom-range-slider/) |
+| 45 | [Netflix Mobile Navigation](https://github.com/lana-20/50Projects50Days/tree/main/NetflixNavigation) | [Live Demo](https://lana-20.github.io/netflix-mobile-navigation/) |
+| 46 | [Quiz App](https://github.com/lana-20/50Projects50Days/tree/main/QuizApp) | [Live Demo](https://lana-20.github.io/quiz-app/) |  
+| 47 | [Testimonial Box Switcher](https://github.com/lana-20/50Projects50Days/tree/main/TestimonialBoxSwitcher) | [Live Demo](https://lana-20.github.io/testimonial-box-switcher/) |
+| 48 | [Random Image Feed](https://github.com/lana-20/50Projects50Days/tree/main/RandomImageFeed) | [Live Demo](https://lana-20.github.io/random-image-feed/) |
+| 49 | [Todo List](https://github.com/lana-20/50Projects50Days/tree/main/TodoList) | [Live Demo](https://lana-20.github.io/todo-list/) |
+| 50 | [Insect Catch Game](https://github.com/lana-20/50Projects50Days/tree/main/InsectCatchGame) | [Live Demo](https://lana-20.github.io/insect-catch-game/) |
 
 ## License
 
