@@ -7,45 +7,45 @@ This is the main repository for all of the projects in the course.
 
 | # |	Project	| Live Demo |
 |:--|:--|:-- |
-| 01 | Expanding Cards	| Live Demo |
-| 02 | Progress Steps	| Live Demo |
-| 03 | Rotating Navigation Animation | Live Demo |
-| 04 |	Hidden Search Widget	 | Live Demo |
-| 05 |	Blurry Loading	 | Live Demo |
-| 06 |	Scroll Animation	 | Live Demo |
-| 07 |	Split Landing Page	 | Live Demo |
-| 08 |	Form Wave	 | Live Demo |
-| 09 |	Sound Board	 | Live Demo |
-| 10 |	Dad Jokes	 | Live Demo |
-| 11 |	Event Keycodes	 | Live Demo |
-| 12 |	Faq Collapse	 | Live Demo |
-| 13 |	Random Choice Picker	 | Live Demo |
-| 14 |	Animated Navigation	 | Live Demo |
-| 15 |	Incrementing Counter	 | Live Demo |
-| 16 |	Drink Water	 | Live Demo |
-| 17 |	Movie App	 | Live Demo |
-| 18 |	Background Slider	| Live Demo  |
-| 19 |	Theme Clock	 | Live Demo  |
-| 20 |	Button Ripple Effect	 | Live Demo  |
-| 21 |	Drag N Drop	 | Live Demo  |
-| 22 |	Drawing App	 | Live Demo |
-| 23 |	Kinetic Loader	 | Live Demo |
-| 24 |	Content Placeholder	 | Live Demo  |
-| 25 |	Sticky Navbar	 | Live Demo |
-| 26 |	Double Vertical Slider	 | Live Demo |
-| 27 |	Toast Notification	 | Live Demo |
-| 28 |	Github Profiles	 | Live Demo |
-| 29 |	Double Click Heart	 | Live Demo |
-| 30 |	Auto Text Effect	 | Live Demo |
-| 31 |	Password Generator	 | Live Demo |
-| 32 |	Good Cheap Fast	 | Live Demo |
-| 33 |	Notes App	 | Live Demo |
-| 34 |	Animated Countdown	 | Live Demo |
-| 35 |	Image Carousel	 | Live Demo |
-| 36 |	Hoverboard	 | Live Demo |
-| 37 |	Pokedex	 | Live Demo |
-| 38 |	Mobile Tab Navigation	 | Live Demo |
-| 39 |	Password Strength Background	 | Live Demo |
+| 01 | [Expanding Cards](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/Expanding%20Cards) | [Live Demo](https://lana-20.github.io/expanding-cards/) |
+| 02 | [Progress Steps](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ProgressSteps) | [Live Demo](https://lana-20.github.io/progress-steps/) |
+| 03 | [Rotating Nav Animation](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/RotatingNavAnimation) | [Live Demo](https://lana-20.github.io/rotating-nav-animation/) |
+| 04 | [Hidden Search Widget](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/HiddenSearchWidget) | [Live Demo](https://lana-20.github.io/hidden-search-widget/) |
+| 05 | [Load Blur Effect](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/LoadBlurEffect) | [Live Demo](https://lana-20.github.io/load-blur-effect/) |
+| 06 | [Scroll Animation](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ScrollAnimation) | [Live Demo](https://lana-20.github.io/scroll-animation/) |
+| 07 | [Split Landing Page](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/SplitLandingPage) | [Live Demo](https://lana-20.github.io/split-landing-page/) |
+| 08 | [Form Input Wave](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/FormInputWave) | [Live Demo]( https://lana-20.github.io/form-input-wave/) |
+| 09 | [Sound Board](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/SoundBoard) | [Live Demo](https://lana-20.github.io/sound-board/) |
+| 10 | [Dad Jokes](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DadJokes) | [Live Demo](https://lana-20.github.io/dad-jokes/) |
+| 11 | [Event Keycodes](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/KeyBoxes) | [Live Demo](https://lana-20.github.io/event-keycodes/) |
+| 12 | [FAQ Collapse](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/FAQBoxes) | [Live Demo](https://lana-20.github.io/faq-collapse/) |
+| 13 | [Random Choice Picker](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/RandomChoicePicker) | [Live Demo](https://lana-20.github.io/random-choice-picker/) |
+| 14 | [Animated Navigation](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/AnimatedNavigation) | [Live Demo](https://lana-20.github.io/animated-navigation/) |
+| 15 | [Incrementing Counter](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/IncrementingCounter) | [Live Demo](https://lana-20.github.io/incrementing-counter/) |
+| 16 | [Drink Water](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DrinkWater) | [Live Demo](https://lana-20.github.io/drink-water/) |
+| 17 | [Movie App](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/MovieApp) | [Live Demo](https://lana-20.github.io/movie-app/) |
+| 18 | [Background Slider](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/BackgroundSlider) | [Live Demo](https://lana-20.github.io/background-slider/) |
+| 19 | [Theme Clock](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ThemeClock) | [Live Demo](https://lana-20.github.io/theme-clock/) |
+| 20 | [Button Ripple Effect](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ButtonRippleEffect) | [Live Demo](https://lana-20.github.io/button-ripple-effect/) |
+| 21 | [Drag N Drop](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DragNDrop) | [Live Demo](https://lana-20.github.io/drag-n-drop/) |
+| 22 | [Drawing App](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DrawingApp) | [Live Demo](https://lana-20.github.io/drawing-app/) |
+| 23 | [Kinetic Loader](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/KineticCSSLoader) | [Live Demo](https://lana-20.github.io/kinetic-loader/) |
+| 24 | [Content Placeholder](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ContentPlaceholder) | [Live Demo](https://lana-20.github.io/content-placeholder/) |
+| 25 | [Sticky Navbar](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/StickyNavbar) | [Live Demo](https://lana-20.github.io/sticky-navbar/) |
+| 26 | [Double Vertical Slider](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DoubleVerticalSlider) | [Live Demo](https://lana-20.github.io/double-vertical-slider/) |
+| 27 | [Toast Notification](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/ToastNotification) | [Live Demo](https://lana-20.github.io/toast-notification/) |
+| 28 | [Github Profiles](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/GithubProfiles) | [Live Demo](https://lana-20.github.io/github-profiles/) |
+| 29 | [Double Click Heart](https://github.com/lana-20/50Projects50Days/tree/main/DoubleHeartClick) | [Live Demo](https://lana-20.github.io/double-click-heart/) |
+| 30 | [Auto Text Effect](https://github.com/lana-20/50Projects50Days/tree/main/AutoTextEffect) | [Live Demo](https://lana-20.github.io/auto-text-effect/) |
+| 31 | [Password Generator](https://github.com/lana-20/50Projects50Days/tree/main/PasswordGenerator) | [Live Demo](https://lana-20.github.io/password-generator/) |
+| 32 | [Good Cheap Fast](https://github.com/lana-20/50Projects50Days/tree/main/GoodCheapFast) | [Live Demo](https://lana-20.github.io/good-cheap-fast/) |
+| 33 | [Notes App](https://github.com/lana-20/50Projects50Days/tree/main/NotesApp) | [Live Demo](https://lana-20.github.io/notes-app/) |
+| 34 | [Animated Countdown](https://github.com/lana-20/50Projects50Days/tree/main/AnimatedCountdown) | [Live Demo](https://lana-20.github.io/animated-countdown/) |
+| 35 | [Image Carousel](https://github.com/lana-20/50Projects50Days/tree/main/ImageCarousel) | [Live Demo](https://lana-20.github.io/image-carousel/) |
+| 36 | [Hoverboard](https://github.com/lana-20/50Projects50Days/tree/main/HoverBoard) | [Live Demo](https://lana-20.github.io/hoverboard/) |
+| 37 | [Pokedex](https://github.com/lana-20/50Projects50Days/tree/main/Pokedex) | [Live Demo](https://lana-20.github.io/pokedex/) |
+| 38 | [Mobile Tab Tavigation](https://github.com/lana-20/50Projects50Days/tree/main/MobileTabNavigation) | [Live Demo](https://lana-20.github.io/mobile-tab-navigation/) |
+| 39 | [Password Strength Background](https://github.com/lana-20/50Projects50Days/tree/main/PasswordStrengthBackground) | [Live Demo](https://lana-20.github.io/password-strength-background/) |
 | 40 | [3D Background Boxes](https://github.com/lana-20/50Projects50Days/tree/main/3DBackgroundBoxes) | [Live Demo](https://lana-20.github.io/3d-background-boxes/) |
 | 41 | [Verify Account UI](https://github.com/lana-20/50Projects50Days/tree/main/VerifyAccountUI) | [Live Demo](https://lana-20.github.io/verify-account-ui/) |
 | 42 | [Live User Filter](https://github.com/lana-20/50Projects50Days/tree/main/LiveUserFilter) | [Live Demo](https://lana-20.github.io/live-user-filter/) |
@@ -57,6 +57,7 @@ This is the main repository for all of the projects in the course.
 | 48 | [Random Image Feed](https://github.com/lana-20/50Projects50Days/tree/main/RandomImageFeed) | [Live Demo](https://lana-20.github.io/random-image-feed/) |
 | 49 | [Todo List](https://github.com/lana-20/50Projects50Days/tree/main/TodoList) | [Live Demo](https://lana-20.github.io/todo-list/) |
 | 50 | [Insect Catch Game](https://github.com/lana-20/50Projects50Days/tree/main/InsectCatchGame) | [Live Demo](https://lana-20.github.io/insect-catch-game/) |
+
 
 ## License
 
